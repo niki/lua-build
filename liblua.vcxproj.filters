@@ -182,9 +182,6 @@
     <ClInclude Include="src\lua.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="src\lua.hpp">
-      <Filter>ヘッダー ファイル</Filter>
-    </ClInclude>
     <ClInclude Include="src\luaconf.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
